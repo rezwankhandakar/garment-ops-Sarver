@@ -17,3 +17,6 @@ yarn-debug.log*
 .DS_Store
 .vscode
 .idea
+
+# Firebase admin secret
+garment-ops-firebase-adminsdk-*.json
